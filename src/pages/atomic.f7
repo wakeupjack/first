@@ -1,0 +1,59 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Atomic Habits</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Bab 1</h2></div>
+          <div class="block block-strong inset">
+            <p>Dahsyatnya Kekuatan 
+                Atomic Habits 
+                
+                Nasib British Cycling berubah pada suatu hari dalam tahun 
+                
+                2003. Organisasi itu, yang merupakan induk organisasi 
+                cabang olahraga sepeda profesional di Britania Raya, baru saja 
+                merekrut Dave Brailsford sebagai direktur performa yang baru. 
+                Pada waktu itu, pembalap sepeda profesional di Britania Raya 
+                telah mengalami hampir seratus tahun dalam prestasi yang se- 
+                dang-sedang saja. Sejak 1908, pembalap-pembalap Inggris ha- 
+                nya memenangkan satu medali emas di ajang Olimpiade, dan 
+                prestasi mereka bahkan lebih buruk lagi di lomba balap sepeda 
+                paling akbar, Tour de France. Dalam 110 tahun, tidak ada pem- 
+                balap Inggris yang pernah memenangkan ajang tersebut. 
+                
+                Bahkan, prestasi pembalap Inggris begitu tenggelam sehingga 
+                pabrik sepeda terbaik di Eropa menolak menjual sepeda kepada 
+                tim itu karena takut berpengaruh buruk pada penjualan sepeda- 
+                nya seandainya pembalap-pembalap profesional lain melihat at- 
+                let-atlet Inggris memakai produk tersebut. 
+                
+                Brailsford direkrut untuk membawa British Cycling ke arah 
+                baru. Yang membuatnya berbeda dari pelatih-pelatih terdahu- 
+                lu adalah komitmennya yang tiada henti terhadap strategi yang 
+                
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/cerita/" class="item-content item-link">Previous</a>
+              <a href="/atomic1/" class="item-content item-link">Next</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

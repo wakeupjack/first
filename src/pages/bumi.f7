@@ -1,0 +1,63 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Bumi</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Episode 1</h2></div>
+          <div class="block block-strong inset">
+            <p>NAMAKU Raib. Aku murid baru di sekolah. Usiaku lima belas
+                tahun. Aku anak tunggal, perempuan. Untuk remaja seumuranku, tidak
+                ada yang spesial tentangku. Aku berambut hitam, panjang, dan lurus.
+                Aku suka membaca dan mempunyai dua ekor kucing di rumah. Aku
+                bukan anak yang pintar, apalagi populer. Aku hanya kenal temanteman
+                sekelas, itu pun seputar anak perempuan. Nilaiku ratarata, tidak ada
+                yang terlalu cemerlang, kecuali pelajaran bahasa aku amat menyukainya.
+                Di kelas sepuluh sekolah baru ini, aku lebih suka menyendiri dan
+                memperhatikan, menonton temanteman bermain basket. Aku duduk
+                diam di keramaian di kantin, di depan kelas, dan di lapangan. Sebenarnya
+                sejak kecil aku terbilang anak pemalu. Tidak pemalu pemalu sekali
+                memang, meskipun satudua kali jadi bahan tertawaan teman atau
+                kerabat. Normalnormal saja, tapi sungguh urusan pemalu inilah yang
+                membuatku berbeda dari remaja kebanyakan.
+                Aku ternyata amat berbeda. Aku memiliki kekuatan. Aku tahu itu
+                sejak masih kecil meskipun hingga hari ini kedua orangtuaku, teman
+                teman dekatku tidak tahu.
+                Waktu usiaku dua tahun, aku suka sekali bermain petak umpet.
+                Orangtuaku purapura bersembunyi, lantas aku sibuk mencari. Aku
+                tertawa saat menemukan mereka. Kemudian giliranku bersembunyi.
+                Kalian pernah melihat anak kecil usia dua tahun mencoba bersembunyi?
+                Kebanyakan mereka hanya berdiri di pojok kamar, atau di samping sofa,
+                atau di belakang meja, lantas menutupi wajah dengan kedua telapak
+                tangan. Mereka merasa itu sudah cukup sempurna untuk bersembunyi.
+                Kalau sudah menutupi wajah, gelap, sudah tersembunyi semua, padahal
+                tubuh mereka amat terlihat.
+                Aku juga melakukan hal yang sama saat Papa bilang, ”Raib, ayo
+                bersembunyi. Giliran Mama dan Papa yang jaga.” Maka aku tertawa
+                comel, berlari ke kamarku, berdiri di samping lemari, menutupi wajah
+                dengan kedua telapak tanganku.
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/novel/" class="item-content item-link">Previous</a>
+              <a href="/bumi1/" class="item-content item-link">Next</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

@@ -1,0 +1,176 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="left">
+            <a href="#" class="link icon-only panel-open" data-panel="left">
+              <i class="icon f7-icons if-not-md">menu</i>
+              <i class="icon material-icons if-md">menu</i>
+            </a>
+          </div>
+          
+        </div>
+        <div class="page-content">
+          <div class="block">
+            <p><h2>Nonfiksi</h2></p>
+          </div>
+          <div class="demo-expandable-cards">
+            
+            <!-- content image start -->
+            
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5SYXHwwQPMDm3ZHnoovGoR5KwjKDCpzTcfq-Q8Rv5mqjhIrlHU6eH0gTHDfkuvnKzedYw39fb5-4NKSCqGUnE-6WKlCxLZKRkBbTsnDL3upaKb_iXA-MOtQ0ds0Geul68ewwFwXeUZCU3i5yVXNvk-MqFBhxXrC9cw-OPWRK28RjcZII5IKQ6PCTbrVc/s320/habits.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Atomic Habits
+                </div>
+                <div class="card-content-padding">
+                  <p><h2>Sinopsis</h2></p>
+                  <p> Melalui Atomics Habits James Clear memberikan paparan teori bahwa kebiasaan remeh yang dilakukan setiap hari dapat menghasilkan sesuatu yang luar biasa. Kegiatan-kegiatan seperti bangun lebih cepat lima menit atau berolahraga ringan setiap hari dapat membentuk kebiasaan baik dan menghentikan kebiasaan buruk. Oleh karena itu, kebiasaan-kebiasaan remeh tersebut dikenal sebagai atomic habits atau kebiasaan atom. Clear menjelaskan bahwa kebiasaan buruk yang terus berulah terjadi bukan karena seseorang tidak ingin berubah, melainkan karena sistem perubahan yang salah. Ketika sistem perubahan dilakukan secara benar, maka individu dapat memperoleh ke tingkat produktivitas yang baru. Paparan motivasi dalam Atomic Habits tidak hanya didasari dari rangkaian kata penyemangat, melainkan lewat teori-teori ilmiah. Melansir dari Goodreads, sang penulis dikenal dengan kemampuannya menyaring topik kompleks menjadi perilaku sederhana yang mudah diterapkan. Clear juga mampu memanfaatkan ide-ide dari ilmu biologi, psikologi, hingga saraf untuk membuat panduan yang mudah dipahami dan mudah dipraktikan menjadi kebiasaan baik. Selain itu, buku Atomic Habits juga dilengkapi dengan kisah inspiratif dan menghibur dari para peraih medali emas olimpiade, CEO perusahaan besar, seniman, ilmuwan, hingga komedian.
+
+                  </p>
+                  
+                  <p>
+                    <a href="/atomic/" class="button button-fill button-round button-large card-close">Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRW56CjXR_FtddCJtWoG-RgduAZJcuYKO8p4HRtMB_RADpITPa61t9lIMwNmXxk3_ccfVl9vLccUXwGF11SCOYfbWamh_C9F1ETLn3TmTjPe0sWFjQsGIH3yvHpqnT1Nu8N0By9vxNHe4zmHKYKp1JJjT2mjCcmCEaTsE5P1BYYre74PbL22Gw0_bikwiK/s320/teras.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Filosofi Teras
+                </div>
+                <div class="card-content-padding">
+                  <p><h2>Sinopsis</h2></p>
+                  <p>Filosofi Teras membahas tentang filsafat stoic yang dinilai mampu membekali manusia untuk tenang menghadapi persoalan. Melansir dari laman Pembangunan Sosial Fisipol UGM, buku Filosofi Teras pada awalnya menceritakan survei kekhawatiran nasional yang semakin masif dan menyajikan sekilas kehidupan penulis yang penuh emosi negatif. Lebih dari 2000 tahun lalu, ada sebuah mazhab filsafat yang menemukan akar masalah dan solusi dari banyaknya emosi negatif. Mazhab filsafat tersebut bernama stoisisme atau filosofi stoa. Akan tetapi, Henry Manampiring mengenalkannya dengan istilah “Filosofi Teras” yang kemudian menjadi judul buku ini. Henry memperkenalkan filosofi teras sebagai solusi yang membantu kita untuk mengatasi emosi negatif serta menghasilkan mental seseorang menjadi tangguh dalam menghadapi naik turunnya kehidupan. Buku Filosofi Teras mampu menggambarkan filsafat stoa secara sederhana dengan inti dikotomi kendali nasib manusia sehingga dari dikotomi kendali tersebut, manusia dapat menentukan hal-hal yang dapat membuatnya bahagia maupun tidak. Buku Filosofi Teras berbeda dengan buku filsafat lain karena buku ini mampu menggambarkan analogi kejadian real di kehidupan sehari-hari dan penggunaan bahasa sesuai generasi Z. Filosofi Teras befokus pada tujuannya untuk hidup dalam tenang dan terbebas dari emosi negatif. Salah satu value penting dari buku ini, yaitu bahwa kita menjalani hidup harus dengan selaras karena kehidupan berjalan sesuai kehendak pencipta-Nya dan selaras dengan alam. Selain itu, value lain perlu diingat adalah jangan terlalu memikirkan hal yang belum terjadi ke depannya, biarkan berjalan sebagaimana mestinya. Namun, tetap diiringi dengan effort supaya mendapat hasil yang maksimal.
+
+                  </p>
+                  
+                  <p>
+                    <a href="/teras/" class="button button-fill button-round button-large card-close">Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqFocH9q11RyxnTkjxwqOTp6NV_mD2gn0JGmuXtOerDLt5Yb6R034WZm2gc9OKxbLpNPoC3BtH4BmQ-cot_NYahwgXZQUNd_XTD6VWyCIAlvx7-7XpeAyD_LlLmlCLAwWwG_Pde2r2_VU46MXy4t9zehhNURTdfG5RkXPNYQL3Or63I6VZgPigYBin-fjr/s320/money.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Psycology of Money
+                </div>
+                <div class="card-content-padding">
+                  <p>Psychology of Money memiliki total 19 cerita pendek yang mengeksplorasi cara unik orang berpikir tentang uang. Seluruh kisah tersebut merupakan kisah nyata yang digambarkan dari sudut pandang dua orang dengan latar belakang berbeda, yaitu Ronald James Read dan Richard Fuscone. Read merupakan petugas kebersihan pom bensin di Amerika Serikat dengan penghasilan yang tidak banyak dan tidak memiliki latar belakang pendidikan ekonomi. Di sisi lain, Fuscone merupakan eksekutif di perusahaan investasi Merril Lynch dan lulusan pendidikan ekonomi Universitas Harvard. Keduanya memiliki cara yang sangat berbeda dalam mengolah keuangannya. Satu dari mereka menabung lebih banyak, sementara yang lain menghamburkannya karena gaya hidup. Perilaku keuangan keduanya dinarasikan sebagai kisah yang membangun buku ini. Melalui ringkasan yang tertuang pada laman Goodreads buku ini menawarkan pelajaran tentang bagaimana seseorang berperilaku jika berkaitan dengan uang. Perilaku yang benar sulit diajarkan, bahkan pada orang-orang yang benar-benar pintar. Sehingga, dengan dituliskannya kisah dari Read dan Fuscone, pembaca diharapkan dapat memahami salah satu hal terpenting untuk hidup dengan lebih baik.
+
+                  </p>
+                  <p>
+                    <a href="/money/" class="button button-fill button-round button-large card-close">Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_lZRN2NCVajP5YG4iLXmkeaveLvWTh_ssuNef81Dhrd6kv979yOkPOQ4I2xvAm7Un3wWsP0wbFdOMBFRVMFxTmDHzOVjyfiz2w9GIY8VSIbdn4bFtv1MgG-_FJlAJ_lpOlz3p0hcfu5j8AQgMTjt7t1W2c67q1L-bUoNPvCC613gkGJj__9LDC-Dw4yoK/s320/tidak.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Berani tidak disukai 
+                </div>
+                <div class="card-content-padding">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus rhoncus cursus. Etiam lorem est,
+                    consectetur vitae tempor a, volutpat eget purus. Duis urna lectus, vehicula at quam id, sodales dapibus
+                    turpis. Suspendisse potenti. Proin condimentum luctus nulla, et rhoncus ante rutrum eu. Maecenas ut
+                    tincidunt diam. Vestibulum lacinia dui ligula, sit amet pulvinar nisl blandit luctus. Vestibulum aliquam
+                    ligula nulla, tincidunt rhoncus tellus interdum at. Phasellus mollis ipsum at mollis tristique. Maecenas
+                    sit amet tempus justo. Duis dolor elit, mollis quis viverra quis, vehicula eu ante. Integer a molestie
+                    risus. Vestibulum eu sollicitudin massa, sit amet dictum sem. Aliquam nisi tellus, maximus eget placerat
+                    in, porta vel lorem. Aenean tempus sodales nisl in cursus. Curabitur tincidunt turpis in nisl ornare
+                    euismod eget at libero.</p>
+                  <p>Suspendisse ligula eros, congue in nulla pellentesque, imperdiet blandit sapien. Morbi nisi sem,
+                    efficitur a rutrum porttitor, feugiat vel enim. Fusce eget vehicula odio, et luctus neque. Donec mattis a
+                    nulla laoreet commodo. Integer eget hendrerit augue, vel porta libero. Morbi imperdiet, eros at ultricies
+                    rutrum, eros urna auctor enim, eget laoreet massa diam vitae lorem. Proin eget urna ultrices, semper
+                    ligula aliquam, dignissim eros. Donec vitae augue eu sapien tristique elementum a nec nulla. Aliquam erat
+                    volutpat. Curabitur condimentum, metus blandit lobortis fringilla, enim mauris venenatis neque, et
+                    venenatis lorem urna ut justo. Maecenas neque enim, congue ac tempor quis, tincidunt ut mi. Donec
+                    venenatis ante non consequat molestie. Quisque ut rhoncus ligula. Vestibulum sodales maximus justo sit
+                    amet ornare. Nullam pulvinar eleifend nisi sit amet molestie.</p>
+                  <p>
+                    <a class="button button-fill button-round button-large card-close">Close</a>
+                  </p>
+                </div>
+              </div>
+            </div> -->
+
+            <!-- <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCJDgdhSs3nUHyOCNBhb4Uuht9X_XfZkqjSEZJrlUUMQj0ES-QXQUD1v-VWY_tFZ9sVfQm6t78BGgcQizuCewqYUfNRyBdBlQjbex3_7hyphenhyphenMq33IlbL-xJ6hIUasBC_aOFNd0QdDhdedNkzLYYvWSdiCl-SCx10ZhhLKeqPYyfx9U_WB45__XFp9LqVoR24/s320/dad.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Rich Dad Poor Dad
+                </div>
+                <div class="card-content-padding">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus rhoncus cursus. Etiam lorem est,
+                    consectetur vitae tempor a, volutpat eget purus. Duis urna lectus, vehicula at quam id, sodales dapibus
+                    turpis. Suspendisse potenti. Proin condimentum luctus nulla, et rhoncus ante rutrum eu. Maecenas ut
+                    tincidunt diam. Vestibulum lacinia dui ligula, sit amet pulvinar nisl blandit luctus. Vestibulum aliquam
+                    ligula nulla, tincidunt rhoncus tellus interdum at. Phasellus mollis ipsum at mollis tristique. Maecenas
+                    sit amet tempus justo. Duis dolor elit, mollis quis viverra quis, vehicula eu ante. Integer a molestie
+                    risus. Vestibulum eu sollicitudin massa, sit amet dictum sem. Aliquam nisi tellus, maximus eget placerat
+                    in, porta vel lorem. Aenean tempus sodales nisl in cursus. Curabitur tincidunt turpis in nisl ornare
+                    euismod eget at libero.</p>
+                  <p>Suspendisse ligula eros, congue in nulla pellentesque, imperdiet blandit sapien. Morbi nisi sem,
+                    efficitur a rutrum porttitor, feugiat vel enim. Fusce eget vehicula odio, et luctus neque. Donec mattis a
+                    nulla laoreet commodo. Integer eget hendrerit augue, vel porta libero. Morbi imperdiet, eros at ultricies
+                    rutrum, eros urna auctor enim, eget laoreet massa diam vitae lorem. Proin eget urna ultrices, semper
+                    ligula aliquam, dignissim eros. Donec vitae augue eu sapien tristique elementum a nec nulla. Aliquam erat
+                    volutpat. Curabitur condimentum, metus blandit lobortis fringilla, enim mauris venenatis neque, et
+                    venenatis lorem urna ut justo. Maecenas neque enim, congue ac tempor quis, tincidunt ut mi. Donec
+                    venenatis ante non consequat molestie. Quisque ut rhoncus ligula. Vestibulum sodales maximus justo sit
+                    amet ornare. Nullam pulvinar eleifend nisi sit amet molestie.</p>
+                  <p>
+                    <a class="button button-fill button-round button-large card-close">Close</a>
+                  </p>
+                </div>
+              </div>
+            </div> -->
+
+            
+
+            
+
+
+            <!-- content image end -->
+
+
+          </div>
+        </div>
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  };
+  </script>

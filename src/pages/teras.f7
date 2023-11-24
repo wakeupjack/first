@@ -1,0 +1,48 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Filosofi Teras</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Bab 1 Survei Khawatir Nasional</h2></div>
+          <div class="block block-strong inset">
+            <p>
+ 
+                
+                Di bulan November 2017, saat saya sedang mempelajari Filosofi Teras,saya terpikir untuk mencari tahu apakah orang-orang lain juga merasakhawatir mengenai hidupnya melalui riset (baca: kepo ilmiah). Sayakemudian membuat Survei Khawatir Nasional secara
+                online.
+                
+                Survei Khawatir Nasional dilakukan selama seminggu dengan rentang waktutanggal 11-18 November 2017, jumlah responden sebanyak 3.634 responden, dankomposisi responden 70% perempuan. Sebagai catatan metodologi, karena surveiini dilakukan secara
+                online
+                 dan disebarkan secara organik (sukarela) di mediasosial, maka hasilnya tidak bisa dianggap mewakili keseluruhan populasi, karenapemilihan sampel tidak acak
+                random.
+                 Dalam bahasa awam, hasil dari survei inihanya mewakili responden survei ini saja dan tidak bisa serta merta dianggapmewakili populasi umum.Survei ini menanyakan tingkat kekhawatiran responden terhadap kehidupansecara umum dan beberapa aspek hidup yang umum bagi generasi milenial, yaitumereka yang dilahirkan antara tahun 1980-2000. Ini artinya, di tahun 2018,penduduk milenial tertua berusia 38 tahun (sudah ada yang menikah dan menjadiorang tua), dan termuda berusia 18 tahun (usia mulai kuliah/bekerja). Karenanya,Survei Khawatir Nasional ini juga menanyakan tingkat kekhawatiran di beberapaaspek hidup yang dirasa relevan, yaitu sekolah/studi,
+                relationship,
+                pekerjaan/bisnis, sampai topik yang lebih besar seperti kondisi sosial politik diIndonesia.Pertanyaan mengenai rasa khawatir selalu menggunakan skala 4-poin, yaitu sangat tidak khawatir, tidak khawatir, sedikit khawatir, sangat khawatir. Skala ganjildihindari untuk menghindari kebiasaan banyak orang memilih "tengah-tengah saja".Bagaimana hasilnya?a.Ketika ditanyakan mengenai tingkat kekhawatiran tentang hidup secara keseluruhan saat ini, hasilnya adalah 63% (hampir dua dari tiga responden) mengaku merasa “lumayan khawatir/sangat khawatir” tentang hidup secara umum.
+                
+                
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/cerita/" class="item-content item-link">Previous</a>
+              <a href="/teras1/" class="item-content item-link">Next</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

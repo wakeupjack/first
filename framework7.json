@@ -1,0 +1,60 @@
+{
+  "cwd": "/home/jakku/Documents/bukku",
+  "type": [
+    "cordova"
+  ],
+  "name": "Bukku",
+  "framework": "core",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": "less",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": true,
+  "customBuildConfig": {
+    "rtl": false,
+    "darkTheme": true,
+    "lightTheme": true,
+    "themes": [
+      "ios",
+      "md"
+    ],
+    "components": [
+      "popup",
+      "popover",
+      "sheet",
+      "list-index",
+      "tabs",
+      "panel",
+      "card",
+      "form",
+      "input",
+      "checkbox",
+      "range",
+      "infinite-scroll",
+      "pull-to-refresh",
+      "searchbar",
+      "photo-browser",
+      "notification",
+      "skeleton"
+    ]
+  },
+  "pkg": "io.framework7.myapp",
+  "cordova": {
+    "folder": "cordova",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": [
+      "cordova-plugin-statusbar",
+      "cordova-plugin-keyboard",
+      "cordova-plugin-splashscreen",
+      "cordova-plugin-media"
+    ]
+  }
+}

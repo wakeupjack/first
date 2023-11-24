@@ -1,0 +1,54 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Bintang</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Episode 1</h2></div>
+          <div class="block block-strong inset">
+            <p>"ALI , sejujurnya Bapak ruiak punya ide sama sekali apa yang 
+                sebenarnya kamu lakukan setiap kali menghadapi kertas 
+                ulangan." Pak Gun menatap dan balik kacamata tebalnya. “Entah 
+                kenapa nilai-nilai ulanganmu selalu saja buruk. Apa susahnya 
+                mengerjakan soal-soal mi f" Pak Gun menyerahkan kertas 
+                tersebut. 
+                
+                Ali menenmanya tanpa komentar, kembali ke kursinya dengan 
+                langkah malas. 
+                
+                Setelah tadi malam hujan deras membungkus kota, pagi ini, 
+                hari yang cerah, pelajaran pertama adalah biologi. Setelah 
+                meletakkan tas hitamnya, memeriksa daftar absen, dan menyapa 
+                kami. Pak Gun membagikan kertas ulangan yang kami kerjakan 
+                seminggu sebelumnya. Ali yang terakhir menerima kertas — selalu 
+                begitu. 
+                
+                "Tahun lalu Bapak sudah khawatir kamu ridak naik kelas, Ali. 
+                Nilai-nilai ujian akhir semestermu persis di batas paling rendah. 
+                Guru-guru harus berdebat panjang tentang itu — terutama Miss 
+                Selena yang berusaha meyakinkan guru lain bahwa kamu punya 
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/novel/" class="item-content item-link">Previous</a>
+              <a href="/bintang1/" class="item-content item-link">Next</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

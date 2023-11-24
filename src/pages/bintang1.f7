@@ -1,0 +1,64 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Bintang</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p>potensi. Tidakkah kamu mau mulai belajar lebih baik? Arau 
+        minimal, berusaha menulis jawaban serius di kerras ulangan? 
+        
+        "Lihat, pertanyaan nomor satu, sebutkan bagian-bagian sel. 
+        Alih-alih menjawabnya dengan bagian membran sel, nukleus, 
+        dan sitoplasma, kamu hanya menulis: bagian luar, bagian dalam, 
+        dan bagun tengah. Apa pun temu saja memiliki bagian tersebut. 
+        Mobil, rumah, buku, memiliki bagian dalam, bagian tengah, dan 
+        bagian luar, tapi bukan itu jawabannya." Ciuru biologi yang 
+        usianya sudah lebih dari lima puluh tahun itu menatap Ali. 
+        
+        Ali hanya menunduk bersungut sungut. Aku tahu maksud 
+        sungutan Ali. Dia merasa sudah menjawab dengan "benar" dan 
+        "serius". Teman-teman sekelas mulai tertawa melihat ekspresi 
+        kusut Ali. termasuk Seli. Aku menyikut lengan Seli. menyuruh- 
+        nya diam. 
+        
+        "Atau kamu membutuhkan pcla|.iran biologi tambahan? Agar 
+        lebih cepat menyerap pelajaran? Bapak bisa memberikannya 
+        setelah pulang sekolah." Pak Gun bertanya. 
+        
+        Ruangan kelas semakin ramai oleh tawa. Aku kembali 
+        menyikut Seli. "Lihat wajah Ali. Ra. Lucu sekali, bukan?" Seli 
+        berbisik, membela diri. Aku melotot. Itu tetap tidak sopan 
+        menertawakannya. Terlepas dari Ali adalah teman baik kami. 
+        Seli tahu persis Ali hanya malas dan tidak peduli dengan 
+        pelajaran SMA. Dia tidak lamban, apalagi bodoh. Ali bahkan 
+        bisa mengerjakan soal biologi semester akhir universitas. 
+        
+        “Yang lain. ayo. jangan hanya tertawa. Kalian sekarang sudah 
+        kelas sebelas. Enam bulan lagi kalian akan naik kelas. Cepat 
+        sekali waktu berlalu, tidak terasa, saatnya belajar yang serius. 
+        Tidakkah kalian mulai memikirkan akan kuliah di mana? </p>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/bintang/" class="item-content item-link">Previous</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

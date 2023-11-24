@@ -1,0 +1,191 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="left">
+            <a href="#" class="link icon-only panel-open" data-panel="left">
+              <i class="icon f7-icons if-not-md">menu</i>
+              <i class="icon material-icons if-md">menu</i>
+            </a>
+          </div>
+          
+        </div>
+        <div class="page-content">
+          <div class="block">
+            <p><h2>Fiksi</h2></p>
+          </div>
+          <div class="demo-expandable-cards">
+            
+            <!-- content image start -->
+            
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy-enJuIM1lIf-PR9NtnXk3LS4IC2mFF1DFtL7AhCyfSqN79tE455lRfFLbdniY_MxRaoIyS_RkOBLqpD36BcgDM8VFtJw5tEOUO4B_bkseDV0SeOkIpc7g7c8HymG2GEok4Ds6_ml-8h8MvOyyl6CPIoMyQVX1_LmadWT7JmeCAl7EoXd6kNY_rZikMuf/s320/sunsett.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Sunset & Rosie, Tere Liye
+                </div>
+
+                
+                <!-- <button class="button button-tonal button-fill color-green">
+                  <a href="http://google.com" class='external link' target="_system">donlot</a>
+                </button> -->
+
+
+                <div class="card-content-padding" style="text-align: justify;">
+                  <h2>Sinopsis</h2>
+                  <p> Sunset Bersama Rosie mengisahkan tentang pria bernama Tegar yang bersahabat dengan Rosie. Sejak kecil atau tepatnya 20 tahun mereka bermain bersama, hingga perasaan cinta Tegar muncul kepada Rosie. Pria pekerja keras itu hanya memendam perasaannya, hanya saja belum berani menyatakannya. 
+
+                    Sampai pada mereka kuliah, ada pria bernama Nathan yang merupakan teman dekat Tegar menyatakan cinta lebih kepada Rosie. Nathan bertemu dengan Rosie pun karena Tegar. Sungguh malang nasib Tegar, perasaan yang ia pendam selama 20 tahun kalah dengan Nathan yang baru 2 bulan mengenal Rosie. Sejak saat itu Tegar pun menghilang dari kehidupan mereka. Beberapa bulan kemudian, mereka pun memutuskan untuk menikah. Pada masa-masa sulit itu, Tegar mulai membangun karier di Jakarta. Selain mencari penghasilan ia juga ingin melupakan masa lalunya yang menyakitkan dengan mencari kesibukan.
+                    
+                    Sampai tiba di suatu hari, dimana saat keluarga Rosie dan Nathan lengkap dengan 4 anak, Anggrek, Sakura, Jasmine, dan Lili merayakan ulang tahun pernikahan di Pantai Jimbaran. Tegar tidak ikut hadir, hanya menyaksikannya lewat tele-conference via internet. Namun, tidak lama kebahagiaan itu musnah dengan meledaknya bom di Pantai Jimbaran yang harus mengikhlaskan Nathan sebagai korban jiwa.</p>
+                  
+                  <p>
+                   <!-- Toolbar-->
+                   <a href="/sunset/" class="button button-fill button-round button-large card-close">Baca </a>
+                    <!-- Scrollable page content-->
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXLlk5nOfhJd-JDhYxTaq1L0s1HqQhQqVufifo4idhyphenhyphenCDSyISQcS9oBbm0H2aEuebPb7qLvkfZGl25T0dcp7Z6BOHAZeLdO9W2fJOKz_4ssrxxEVzwGpioC-FO6tAFsZz_bfXOmytCVgHnVjFrJxxD-BXwiDrR8O3je8bH50JiYrF4_M7iQMIXmeZoGvPr/s320/bintang.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Bintang
+                </div>
+                <div class="card-content-padding" style="text-align: justify;">
+                  <p><h2>Sinopsis</h2></p>
+                  <p>Dalam novel Bintang dan novel-novel serial Bumi sebelum ini, dikisahkan bahwa Klan Bintang adalah klan yang paling menakjubkan dari klan yang lain. Keberadaan Klan Bintang jauh dan masih menjadi tanda tanya besar alias misterius sehingga membuat klan ini tidak pernah ada yang membahas atau tertulis di dalam buku-buku klan lain.
+
+                    Novel Bintang mengisahkan petualangan ketiga remaja SMA bisa dikatakan persahabatan ketiga anak yang memiliki rasa ingin tahu sangat tinggi dan banyak, mereka bertiga adalah Raib, Seli, dan Ali. Di novel sebelumnya dari serial Bumi sudah menjelaskan terkait kisah Raib, kemudian di novel berikutnya menceritakan kisah Seli, dan pada novel ini mengisahkan seorang yang sangat genius bisa diibaratkan seorang cendekiawan, bernama Ali.</p>
+                  
+                  <p>
+                    <a href="/bintang/" class="button button-fill button-round button-large card-close">Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ_GwqykFRQrD1AMjtci9zG6DnDAALTxM8WcdvlnMWD4vzfHFw75O5MDexGpWsIy5m7gstJ00hjTVAbvlJHNiRD0JhID6KvsqL1trYyG69GfcWWGLKPzbvDrTXoyQxM4CbtYwD6gvpBCZvu5YpfINOXCWiMktFdFyV_hLiAlmAwqRhKBz6htT-3vC2CDjc/s320/Bumi.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Bumi
+                </div>
+                <div class="card-content-padding" style="text-align: justify;">
+                  <p><h2>Sinopsis</h2></p>
+                  <p>Novel Bumi mengisahkan seorang remaja perempuan bernama Raib. Dikisahkan bahwa Raib bisa bertemu sosok kurus tinggi bernama Tamus. Makhluk kurus dan tinggi itu muncul di dalam cermin kamar Raib. Berbagai keanehan dialami Raib hingga akhirnya dia menyadari bahwa dirinya memiliki kemampuan istimewa. Kejadian aneh diawali dengan kasus robohnya tower listrik di belakang sekolahnya hingga pertemuan Raib dengan makhluk tak terduga. Pertemuan tersebut membawanya ke klan Bulan. Klan Bulan adalah dunia paralel yang hidup berdampingan dengan klan Bumi. Novel pertama dari serial Bumi ini menceritakan awal pertemuan Raib dengan Seli dan Ali. Pada akhirnya mereka akan berjelajah dan berpetualang bersama di dunia paralel. Meskipun alur novel Bumi mengangkat tentang petualangan di dunia paralel, tetapi Tere Liye menyampaikan begitu banyak pesan.
+
+                  </p>
+                  
+                  <p>
+                    <a href="/bumi/" class="button button-fill button-round button-large card-close">Baca </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRyO5PHGxdbDTa4lRuBOfWMEJdu3dh4T3V7WucL4fDcINO-S81Bk0hdaSBBoq3hvbrMHj5pMELjZZ2Ks3ENkU5L7DLB0aMOox7oh_7F1H-Q8a4YYaQFL8tgzCJr8ESa6crVSqz9VfXum0QGvsUU-xzfU_OaGFiqbas2tqPV0DwvSJQTYuPIPE2CQPJ0gMY/w320-h320/bulan.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Bulan
+                </div>
+                <div class="card-content-padding">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus rhoncus cursus. Etiam lorem est,
+                    consectetur vitae tempor a, volutpat eget purus. Duis urna lectus, vehicula at quam id, sodales dapibus
+                    turpis. Suspendisse potenti. Proin condimentum luctus nulla, et rhoncus ante rutrum eu. Maecenas ut
+                    tincidunt diam. Vestibulum lacinia dui ligula, sit amet pulvinar nisl blandit luctus. Vestibulum aliquam
+                    ligula nulla, tincidunt rhoncus tellus interdum at. Phasellus mollis ipsum at mollis tristique. Maecenas
+                    sit amet tempus justo. Duis dolor elit, mollis quis viverra quis, vehicula eu ante. Integer a molestie
+                    risus. Vestibulum eu sollicitudin massa, sit amet dictum sem. Aliquam nisi tellus, maximus eget placerat
+                    in, porta vel lorem. Aenean tempus sodales nisl in cursus. Curabitur tincidunt turpis in nisl ornare
+                    euismod eget at libero.</p>
+                  <p>Suspendisse ligula eros, congue in nulla pellentesque, imperdiet blandit sapien. Morbi nisi sem,
+                    efficitur a rutrum porttitor, feugiat vel enim. Fusce eget vehicula odio, et luctus neque. Donec mattis a
+                    nulla laoreet commodo. Integer eget hendrerit augue, vel porta libero. Morbi imperdiet, eros at ultricies
+                    rutrum, eros urna auctor enim, eget laoreet massa diam vitae lorem. Proin eget urna ultrices, semper
+                    ligula aliquam, dignissim eros. Donec vitae augue eu sapien tristique elementum a nec nulla. Aliquam erat
+                    volutpat. Curabitur condimentum, metus blandit lobortis fringilla, enim mauris venenatis neque, et
+                    venenatis lorem urna ut justo. Maecenas neque enim, congue ac tempor quis, tincidunt ut mi. Donec
+                    venenatis ante non consequat molestie. Quisque ut rhoncus ligula. Vestibulum sodales maximus justo sit
+                    amet ornare. Nullam pulvinar eleifend nisi sit amet molestie.</p>
+                  <p>
+                    <a class="button button-fill button-round button-large card-close">Close</a>
+                  </p>
+                </div>
+              </div>
+            </div> -->
+
+            <!-- <div class="card card-expandable">
+              <div class="card-content">
+                <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFOGOkkv2K6WKm83pYU4QpE2IKLG6INJof3jjkImBmS9U__BJt5WgxgAK8GMrGmRepfju_0KII_YHEH_6wSCu008EcIb_t087DiJNxzlHHJBAvkD5C1lCy1e5j0XIivGU0t_jRlWmnd3sI4j1zb4eCQsynVi9OlVLzBImiQA5YUh9luXZF5VMT5SSjv66i/s320/matahari.png) no-repeat center bottom; background-size: cover; height: 240px">
+                </div>
+                <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+                  <i class="icon f7-icons">xmark_circle_fill</i>
+                </a>
+                <div class="card-header display-block" style="height: 60px">
+                  Matahari
+                </div>
+                <div class="card-content-padding">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam cursus rhoncus cursus. Etiam lorem est,
+                    consectetur vitae tempor a, volutpat eget purus. Duis urna lectus, vehicula at quam id, sodales dapibus
+                    turpis. Suspendisse potenti. Proin condimentum luctus nulla, et rhoncus ante rutrum eu. Maecenas ut
+                    tincidunt diam. Vestibulum lacinia dui ligula, sit amet pulvinar nisl blandit luctus. Vestibulum aliquam
+                    ligula nulla, tincidunt rhoncus tellus interdum at. Phasellus mollis ipsum at mollis tristique. Maecenas
+                    sit amet tempus justo. Duis dolor elit, mollis quis viverra quis, vehicula eu ante. Integer a molestie
+                    risus. Vestibulum eu sollicitudin massa, sit amet dictum sem. Aliquam nisi tellus, maximus eget placerat
+                    in, porta vel lorem. Aenean tempus sodales nisl in cursus. Curabitur tincidunt turpis in nisl ornare
+                    euismod eget at libero.</p>
+                  <p>Suspendisse ligula eros, congue in nulla pellentesque, imperdiet blandit sapien. Morbi nisi sem,
+                    efficitur a rutrum porttitor, feugiat vel enim. Fusce eget vehicula odio, et luctus neque. Donec mattis a
+                    nulla laoreet commodo. Integer eget hendrerit augue, vel porta libero. Morbi imperdiet, eros at ultricies
+                    rutrum, eros urna auctor enim, eget laoreet massa diam vitae lorem. Proin eget urna ultrices, semper
+                    ligula aliquam, dignissim eros. Donec vitae augue eu sapien tristique elementum a nec nulla. Aliquam erat
+                    volutpat. Curabitur condimentum, metus blandit lobortis fringilla, enim mauris venenatis neque, et
+                    venenatis lorem urna ut justo. Maecenas neque enim, congue ac tempor quis, tincidunt ut mi. Donec
+                    venenatis ante non consequat molestie. Quisque ut rhoncus ligula. Vestibulum sodales maximus justo sit
+                    amet ornare. Nullam pulvinar eleifend nisi sit amet molestie.</p>
+                  <p>
+                    <a class="button button-fill button-round button-large card-close">Close</a>
+                  </p>
+                </div>
+              </div>
+            </div> -->
+
+            
+
+            
+
+
+            <!-- content image end -->
+
+
+          </div>
+        </div>
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+    
+    window.open(link, '_system')
+  };
+  </script>

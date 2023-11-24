@@ -1,0 +1,65 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Bumi</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p>Usiaku saat itu bahkan baru dua puluh dua bulan, belum genap
+        dua tahun. Itu permainan hebat pertama yang pernah kumainkan
+        dengan penuh antusias.
+        Namun, ternyata permainan itu tidak seru. Orangtuaku curang.
+        Waktu giliranku jaga dan mereka bersembunyi, aku selalu berhasil
+        menemukan mereka. Di balik gorden, di balik pot bunga besar, di
+        belakang apalah, aku bisa menemukan mereka meskipun sebenarnya aku
+        tahu dari suara mereka menahan tawa. Tetapi saat aku yang
+        bersembunyi, mereka tidak pernah berhasil menemukanku. Mereka
+        hanya sibuk memanggilmanggil namaku, tertawa, masuk kamarku,
+        sibuk memeriksa seluruh kamar. Mereka melewatkanku yang berdiri
+        persis di samping lemari.
+        Aku sebal. Aku mengintip dari balik jemari kedua telapak tanganku.
+        Orangtuaku pastilah purapura tidak melihatku. Bagaimana mungkin
+        mereka tidak melihatku? Itu berkalikali terjadi. Saat aku bersembunyi di
+        ruang tengah, mereka juga berpurapura tidak melihatku. Bahkan saat
+        aku hanya bersembunyi di tengah ruang keluarga rumah kami, menutup
+        wajah dengan telapak tangan, mereka juga purapura tidak melihatku.
+        Saat kesal, kulepaskan telapak tangan yang menutupi wajahku.
+        Mereka hanya berseru, ”Astaga, Raib? Kamu ternyata ada di situ?” atau
+        ”Aduh, Raib, bagaimana kamu tibatiba ada di sini? Kami dari tadi
+        melewati tempat ini, tapi tidak melihatmu.” Lantas mereka memasang
+        wajah seperti terkejut melihatku yang berdiri polos. Mereka memasang
+        wajah tidak mengerti bagaimana aku bisa tibatiba muncul. Padahal aku
+        sungguh sebal menunggu kapan mereka akan berhenti berpurapura
+        tidak melihatku.
+        Permainan petak umpet itu hanya bertahan satudua bulan. Aku
+        bosan.
+        Aku sungguh tidak menyadari saat itu. Itulah kali pertama
+        kekuatan itu muncul. Kekuatan yang tidak pernah berhasil aku mengerti
+        hingga hari ini, kekuatan yang kurahasiakan dari siapa pun hingga
+        usiaku lima belas. Aku tinggal menutupi wajahku dengan kedua telapak
+        tangan, berniat bersembunyi, maka seketika, seluruh tubuhku tidak
+        terlihat. Lenyap. Orangtuaku sungguh tidak punya ide bahwa anak</p>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/bumi/" class="item-content item-link">Previous</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

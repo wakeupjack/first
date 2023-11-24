@@ -1,0 +1,68 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Psycology ofMoney</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p>
+ 
+        
+        My favorite Wikipedia entry begins: “Ronald James Read was an American
+        philanthropist, investor, janitor, and gas station attendant.”
+        Ronald Read was born in rural Vermont. He was the first person in his
+        family to graduate high school, made all the more impressive by the fact that
+        he hitchhiked to campus each day.
+        For those who knew Ronald Read, there wasnt much else worth
+        mentioning. His life was about as low key as they come.
+        Read fixed cars at a gas station for 25 years and swept floors at JCPenney
+        for 17 years. He bought a two-bedroom house for $12,000 at age 38 and
+        lived there for the rest of his life. He was widowed at age 50 and never
+        remarried. A friend recalled that his main hobby was chopping firewood.
+        Read died in 2014, age 92. Which is when the humble rural janitor made
+        international headlines.
+        2,813,503 Americans died in 2014. Fewer than 4,000 of them had a net
+        worth of over $8 million when they passed away. Ronald Read was one of
+        them.
+        In his will the former janitor left $2 million to his stepkids and more than $6
+        million to his local hospital and library.
+        Those who knew Read were baffled. Where did he get all that money?
+        It turned out there was no secret. There was no lottery win and no
+        inheritance. Read saved what little he could and invested it in blue chip
+        stocks. Then he waited, for decades on end, as tiny savings compounded into
+        more than $8 million.
+        Thats it. From janitor to philanthropist.
+        A few months before Ronald Read died, another man named Richard was in
+        the news.
+        Richard Fuscone was everything Ronald Read was not. A Harvard-educated
+        Merrill Lynch executive with an MBA, Fuscone had such a successful career
+        in finance that he retired in his 40s to become a philanthropist. Former
+        Merrill CEO David Komansky praised Fuscones “business savvy,
+        leadership skills, sound judgment and personal integrity.”¹ Crains business
+        magazine once included him in a “40 under 40” list of successful
+        businesspeop
+        </p>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/money/" class="item-content item-link">Previous</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

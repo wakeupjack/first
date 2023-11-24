@@ -1,0 +1,52 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Filosofi Teras</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p>
+ 
+        
+        Dari responden yang masih bersekolah/kuliah, separuhnya (53%) merasa khawatir dengan pendidikan mereka. Tiga penyebab kekhawatiran tertinggi adalah tugas/paper yang tidak lancar, hilangnyamotivasi belajar, dan nilai jelek/tidak lulus. “Biaya” ada di urutan keempat, dipilih oleh seperempat dari mereka yang khawatir mengenai pendidikan mereka.c.Untuk responden yang berada di dalam
+        relationship
+        (pacaran/menikah), mereka yang mengaku "agak khawatir” dan "sangat khawatir” mengenai hubungan mereka ternyata minoritas dengan persentase 30%. Ini artinya, mereka yang tidak khawatir mengenai
+        relationship
+         (pacaran/pernikahan) lebih banyak dari yang merasa khawatir.d.Bagi mereka yang merasa khawatir soal
+        relationship
+        mereka, tiga kekhawatiran utama adalah:
+          Relationship
+         mau dibawa ke manaa?
+        [Udah
+         kayak lagu aja
+        
+        
+        Relationship
+         yang terasa sudah hambar.iii.Pasangan selingkuh, sangat dekat dengan pilihan keempat, yaitu "hubungan tidak direstui orang tua”.e.Bagaimana dengan responden jomblo? Apakah yang jomblo merasalebih khawatir soal status jomblo mereka? Ternyata hasilnyaTIDAK. Tingkat kekhawatiran jomblo mengenaike-jomblo-an mereka ternyata sama dengan kekhawatiran mereka yang sudah berpasangan mengenai hubungan mereka, yaitu sekitar 30% dari responden. Jadi, dari hasil survei ini saja bisa terlihat kalau memiliki pasangan tidak membuat kekhawatiran kamu lebih berkurangdibandingkan dengan saat kamu jomblo.
+        Good news
+         dong bagi kaum tuna- asmara atau jomblo!f.Di antara mereka yang mengaku agak/sangat khawatir soal status  jomblo mereka, tiga kekhawatiran utamanya adalah:i.Khawatir tidak akan pernah mendapatkan pasangan.ii.Khawatir dengan umur.iii.Khawatir tidak menarik lagi.
+        </p>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/teras/" class="item-content item-link">Previous</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

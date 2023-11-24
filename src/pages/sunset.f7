@@ -1,0 +1,68 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Sunset & Rosie</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>Mawar Biru Untuk Rosie</h2></div>
+          <div class="block block-strong inset">
+            <p>Selamat pagi.
+              Aku tahu, saat membaca cerita ini, di tempat kalian mungkin sedang siang,
+              sore, atau boleh jadi malah malam hari. Di tempatku ketika memulai cerita ini
+              juga sebenarnya sedang senja, pukul 17.00. Matahari tengah beranjak tenggelam
+              di kaki cakrawala, sayangnya tak nampak keindahannya karena terhalang
+              gedung-gedung tinggi. Hanya semburat kemerahan yang berpadu dengan
+              cokelatnya langit kota terlihat memantul dari kaca-kaca raksasa, lempengan
+              logam, dan tiang beton pencakar langit.</p>
+
+              <p>Selamat pagi.
+              Bagiku waktu selalu pagi. Di antara potongan dua puluh empat jam sehari,
+              bagiku pagi adalah waktu paling indah. Ketika janji-janji baru muncul seiring
+              embun menggelayut di ujung dedaunan. Ketika harapan-harapan baru merekah
+              bersama kabut yang mengambang di persawahan hingga nun jauh di kaki
+              pegunungan. Pagi, berarti satu hari yang melelahkan telah terlampaui lagi. Pagi,
+              berarti satu malam dengan mimpi-mimpi yang menyesakkan terlewati lagi;
+              malam-malam panjang, gerakan tubuh resah, kerinduan, dan helaan napas
+              tertahan.</p>
+
+              <p>Senyap. Hanya embusan udara dari pendingin yang mendesis pelan melalui
+              lubang palka di ruangan tempat aku duduk sekarang. Jam digital bergerak detik
+              demi detik tanpa suara. Lantai ruangan sepi. Aku membiarkan tirai jendela kaca
+              terbuka lebar-lebar. Cahaya redup matahari senja menelisik sela-selanya. Mataku
+              sejak lima belas menit lalu tidak terlampau memperhatikan betapa sibuk jalanan
+              di bawah sana. Orang-orang bergegas pulang ke rumah masing-masing setelah
+              seharian tenggelam dalam pekerjaan. Klakson mobil melenguh. Wajah-wajah
+              lelah merindu lelap. Asap knalpot membungkus jalanan.</p>
+
+
+              <p>Mataku sedang menatap tak berkedip monitor yang tergantung manis di
+              dinding. Monitor itu tersambung dengan komputer kerjaku. Dan komputer itu
+              tersambung dalam jaringan internet seluruh dunia. Sore ini aku sedang
+              menunggu video-streaming dari Jimbaran, Bali. Menunggu dengan senyum
+              merekah, mata bercahaya, dan semburat kesenangan. Bersiap menyapa empat
+              “monster kecil” melalui tele-conference.
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/novel/" class="item-content item-link">Left Link</a>
+              <a href="/sunset1/" class="item-content item-link">Right Link</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

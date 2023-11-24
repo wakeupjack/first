@@ -1,0 +1,66 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Atomic Habits</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p>ia sebut “penghimpunan perolehan kecil”, yang merupakan fal- 
+        safah pencarian margin peningkatan sangat kecil dalam segala 
+        sesuatu yang Anda kerjakan. Menurut Brailsford, “Secara kese- 
+        luruhan prinsip ini berasal dari gagasan bahwa jika Anda meng- 
+        urai segala sesuatu yang dapat Anda pikirkan terkait dengan ba- 
+        lap sepeda, dengan perbaikan 196 saja Anda akan mendapatkan 
+        kenaikan yang signifikan ketika menerapkannya bersama-sama 
+        sekaligus.” 
+        
+        Brailsford dan pelatih-pelatihnya mulai dengan membuat pe- 
+        nyesuaian-penyesuaian kecil yang bisa diharapkan dari tim pem- 
+        balap sepeda profesional. Mereka merancang ulang jok sepeda 
+        agar lebih nyaman dan mengoleskan alkohol agar pada ban agar 
+        cengkeramannya lebih baik. Mereka meminta para pembalap 
+        memakai celana pendek dengan pemanas listrik guna memper- 
+        tahankan suhu otot sewaktu bersepeda dan menggunakan sen- 
+        sor-sensor biofeedback untuk memonitor reaksi-reaksi tiap atlet 
+        terhadap suatu latihan. Tim menguji bermacam-macam bahan di 
+        terowongan angin dan meminta pembalap-pembalap jalan raya 
+        beralih mengenakan kostum balap indoor, yang terbukti lebih ri- 
+        ngan dan aerodinamis. 
+        
+        Akan tetapi, mereka tidak berhenti di situ. Brailsford dan 
+        timnya terus berburu perbaikan-perbaikan 146 di bagian-bagi- 
+        an yang terlewatkan atau tak terduga. Mereka menguji berma- 
+        cam-macam gel pijat untuk melihat mana yang menghasilkan 
+        pemulihan otot paling cepat. Mereka membayar seorang dokter 
+        untuk mengajari tiap pembalap cara terbaik mencuci tangan 
+        guna mengurangi peluang terkena virus influenza. Mereka me- 
+        nentukan jenis bantal dan kasur yang memungkinkan tidur le- 
+        bih nyenyak bagi tiap pembalap. Mereka bahkan mengecat ba- 
+        gian dalam truk tim dengan warna putih, yang memudahkan 
+        
+        
+        mereka melihat debu-debu kecil yang biasanya tidak langsung </p>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/atomic/" class="item-content item-link">Previous</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

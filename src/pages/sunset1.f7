@@ -1,0 +1,65 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Sunset & Rosie</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block-title"></div>
+    <div class="block block-strong inset">
+      <p>Lima menit lalu, Rosie menelepon, bilang ada sedikit masalah dengan
+        jaringan komputer di sana. Petugas Kafe Sea-fud, tempat mereka biasa makan
+        malam, tengah memperbaikinya. “Kau tunggulah beberapa menit lagi, Tegar,”
+        katanya. Sakura, anaknya yang nomor dua, seperti biasa sibuk berteriak di sela-
+        sela kalimat ibunya, berteriak-teriak sok-tahu, “Uncle, komputernya kena virus.
+        Virus pilek, Uncle. Sebentar lagi komputernya bersin, terus ingusan seperti Lili.”
+        Anggrek, kakaknya tertawa, berusaha ikut menyela. Sayang, Rosie buru-buru
+        mematikan telepon genggam. Terputus sudah keriuhan. Ah, sebentar lagi juga
+        suara-suara berisik gadis-gadis kecil itu keluar dari speaker ruanganku, lengkap
+        dengan gambar wajah menggemaskan mereka di layar.
+        Nathan, suami Rosie, seminggu lalu sudah bilang, mereka akan merayakan
+        ulang tahun pernikahan mereka di Pantai Jimbaran, Bali. Makan malam di atas
+        hamparan butiran pasir. Menatap matahari tenggelam dengan lilin-lilin menyala.
+        Menyimak purnama bundar dan bintang-gemintang menghias angkasa. Mereka
+        sudah memesan meja khusus jauh-jauh hari, bergabung dengan ribuan turis yang
+        biasanya memadati pantai tersebut.
+        Ulang tahun pernikahan yang ke-13.
+        “Bukankah itu angka sial? Seharusnya kau tidak perlu mengadakan acara
+        spesial,” Aku bergurau. Nathan hanya tertawa kecil dari telepon genggamnya,
+        “Tidak ada angka sial, Tegar. Kalaupun dikumpulkan seluruh kesialan angka itu
+        sepanjang tahun, tidak akan cukup menandingi kebahagiaan keluarga kecil
+        kami.”Aku tersenyum lebar mendengar jawabannya.
+        Nathan benar, keluarga mereka bahagia. Tiga belas tahun pernikahan dengan
+        intensitas kebahagiaan tinggi, tanpa henti bagai mata air di kaki pegunungan
+        yang memancar deras. Keluarga mereka dikaruniai empat gadis kecil yang bagai
+        kembang di taman bunga.
+        Anggrek, sulung Rosie dan Nathan bulan ini genap dua belas tahun. Wajahnya
+        mewarisi gurat muka Rosie. Keibuan dan bisa diandalkan. Rambutnya lurus
+        tergerai. Senang mengisi waktu dengan membaca buku. Setiap kali aku
+        berkunjung ke Lombok, maka tasku dipenuhi buku-buku pesanannya.
+        Hanya Anggrek yang memanggilku dengan sebutan sesuai yang diajarkan
+        Nathan, Om. Menilik kebiasaannya, suatu saat kelak tak pelak ia berbakat
+        menjadi pujangga.</p>
+    </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/sunset/" class="item-content item-link">Previous</a>
+              <a href="/sunset1/" class="item-content item-link">Next</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>

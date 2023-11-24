@@ -1,0 +1,70 @@
+<template>
+    <div class="page">
+        <div class="navbar">
+          <div class="navbar-bg"></div>
+          <div class="navbar-inner sliding">
+            <div class="title">Psychology of Money</div>
+          </div>
+        </div>
+        <div class="page-content">
+          
+          
+          <div class="block"><h2>The Greatest Show On Earth</h2></div>
+          <div class="block block-strong inset">
+            <p>
+                Ispent my college years working as a valet at a nice hotel in Los Angeles.
+                One frequent guest was a technology executive. He was a genius, having
+                designed and patented a key component in Wi-Fi routers in his 20s. He had
+                started and sold several companies. He was wildly successful.
+                He also had a relationship with money Id describe as a mix of insecurity
+                and childish stupidity.
+                He carried a stack of hundred dollar bills several inches thick. He showed it
+                to everyone who wanted to see it and many who didnt. He bragged openly
+                and loudly about his wealth, often while drunk and always apropos of
+                nothing.
+                One day he handed one of my colleagues several thousand dollars of cash
+                and said, “Go to the jewelry store down the street and get me a few $1,000
+                gold coins.”
+                An hour later, gold coins in hand, the tech executive and his buddies
+                gathered around by a dock overlooking the Pacific Ocean. They then
+                proceeded to throw the coins into the sea, skipping them like rocks, cackling
+                as they argued whose went furthest. Just for fun.
+                Days later he shattered a lamp in the hotels restaurant. A manager told him
+                it was a $500 lamp and hed have to replace it.
+                “You want five hundred dollars?” the executive asked incredulously, while
+                pulling a brick of cash from his pocket and handing it to the manager.
+                “Heres five thousand dollars. Now get out of my face. And dont ever insult
+                me like that again.”
+                You may wonder how long this behavior could last, and the answer was “not
+                long.” I learned years later that he went broke.
+                The premise of this book is that doing well with money has a little to do with
+                how smart you are and a lot to do with how you behave. And behavior is
+                hard to teach, even to really smart people.
+                A genius who loses control of their emotions can be a financial disaster. The
+                opposite is also true. Ordinary folks with no financial education can be
+                wealthy if they have a handful of behavioral skills that have nothing to do
+                with formal measures of intelligence
+                
+    
+                
+                
+              </p>
+          </div>
+          
+        </div>
+
+        <!-- Toolbar-->
+        <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              <a href="/cerita/" class="item-content item-link">Previous</a>
+              <a href="/money1/" class="item-content item-link">Next</a>
+            </div>
+          </div>
+          <!-- Scrollable page content-->
+      </div>
+  </template>
+  <script>
+  export default () => {
+    return $render;
+  }
+  </script>
