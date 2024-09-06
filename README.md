@@ -1,7 +1,7 @@
 # Bukku
 
 # Link Presentasi 
-https://youtu.be/wXy3rH6qNzA?si=lPS_U9XmgPbJBWXl
+
 
 ## Framework7 CLI Options
 
